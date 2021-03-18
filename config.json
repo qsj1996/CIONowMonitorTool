@@ -1,0 +1,9 @@
+{
+    "datafile": "C:\\Users\\shaojun.qu\\AppData\\Local\\Google\\Chrome\\User Data",
+    "selectedProjects" : ["45443","31559"],
+    "emailFrom" : "CIOCHINA.Automation@accenture.com",
+    "emailToList" : ["shaojun.qu@accenture.com","ye.k.wang@accenture.com"],
+    "emailCcList" : ["shaojun.qu@accenture.com","ye.k.wang@accenture.com"],
+    "failEmailToList" : ["shaojun.qu@accenture.com","ye.k.wang@accenture.com"],
+    "failEmailCcList" : ["shaojun.qu@accenture.com","ye.k.wang@accenture.com"]
+}
